@@ -14,7 +14,7 @@
             ],
             "args": [
                 "<",
-                ".\\input\\day3.txt"
+                ".\\input\\day4.txt"
             ],
             "program": "${workspaceFolder}\\solutions\\${fileBasename}"
         }
